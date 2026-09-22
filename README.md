@@ -74,7 +74,7 @@ Tenho experiência trabalhando com **AWS, Azure e GCP**, infraestrutura como có
       <b>AWS Certified Solutions Architect – Associate</b><br>
       <sub>Amazon Web Services</sub>
       <br><br>
-      <a href="https://www.credly.com/users/SEU-USUARIO">
+      <a href="https://www.credly.com/users/fcavalcanti">
         <img src="https://img.shields.io/badge/Verificar%20no%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Verificar no Credly">
       </a>
     </td>
