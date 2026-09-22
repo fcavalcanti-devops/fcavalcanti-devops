@@ -87,13 +87,13 @@ Tenho experiência trabalhando com **AWS, Azure e GCP**, infraestrutura como có
 
 <p>
   <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="56" height="56" alt="LinkedIn">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" height="52" alt="LinkedIn">
   </a>
   <a href="https://github.com/devfelip">
-    <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub">
+    <img src="https://img.icons8.com/fluency/96/github.png" width="52" height="52" alt="GitHub">
   </a>
   <a href="https://felipedevops.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="72" height="72" alt="Portfolio">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="52" height="52" alt="Portfolio">
   </a>
 </p>
 
