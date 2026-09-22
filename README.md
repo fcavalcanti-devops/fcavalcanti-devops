@@ -86,10 +86,10 @@ Tenho experiência trabalhando com **AWS, Azure e GCP**, infraestrutura como có
 ## 🌎 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/felipe-devops">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" width="52" height="52" alt="LinkedIn">
   </a>
-  <a href="https://github.com/devfelip">
+  <a href="https://github.com/fcavalcanti-devops">
     <img src="https://img.icons8.com/fluency/96/github.png" width="52" height="52" alt="GitHub">
   </a>
   <a href="https://felipedevops.com">
